@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Blog: https://mpfdev.github.io/
+Blog: [https://mpfdev.github.io/](https://mpfdev.github.io/)
